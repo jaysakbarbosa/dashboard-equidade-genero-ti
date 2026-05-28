@@ -1,0 +1,4 @@
+pandas>=2.0
+plotly>=5.18
+panel>=1.3
+openpyxl>=3.1
