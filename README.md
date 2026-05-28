@@ -1,6 +1,6 @@
 # Dashboard de Equidade de Gênero em TI
 
-> Protocolo padronizado para diagnóstico da equidade de gênero em cursos de Tecnologia da Informação em instituições federais de ensino brasileiras.
+> Protocolo padronizado para diagnóstico da equidade de gênero em cursos de Tecnologia da Informação em instituições de ensino superior brasileiras.
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaysakbarbosa/dashboard-equidade-genero-ti/blob/main/dashboard_equidade_ti.ipynb)
 
@@ -8,7 +8,7 @@
 
 ## O que é
 
-Este repositório contém o notebook interativo que implementa o **Protocolo Padronizado para Diagnóstico de Equidade de Gênero em Cursos de TI (v1.0)**, permitindo que qualquer instituição federal realize um diagnóstico comparável, replicável e contínuo da sua situação de equidade de gênero.
+Este repositório contém o notebook interativo que implementa o **Protocolo Padronizado para Diagnóstico de Equidade de Gênero em Cursos de TI (v1.0)**, permitindo que qualquer instituição de ensino superior realize um diagnóstico comparável, replicável e contínuo da sua situação de equidade de gênero.
 
 O dashboard calcula automaticamente as três primeiras métricas do modelo *Leaky Pipeline*, que cobrem o percurso estudantil completo:
 
