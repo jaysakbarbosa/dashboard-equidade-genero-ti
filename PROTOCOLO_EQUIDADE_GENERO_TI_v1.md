@@ -399,7 +399,7 @@ Comparar M3 com M1 do mesmo período:
 - Gráfico de linha: M3 ao longo dos anos
 - Gráfico comparativo: M1 vs M3 lado a lado
 
-### 4.4 MÉTRICA M4: Percentual de Mulheres Docentes
+### 4.4 MÉTRICA M4: Percentual de Mulheres Docentes - NÂO IMPLEMENTADO
 
 **ID:** M4_PERC_DOCENTES
 
@@ -443,7 +443,7 @@ M4_2024 = (9 / 45) × 100 = 20%
 - Gráfico de pizza: Distribuição por gênero
 - Comparação: M4 vs M3 (concluintes) vs M1 (ingressantes)
 
-### 4.5 MÉTRICA M5: Percentual de Mulheres em Liderança
+### 4.5 MÉTRICA M5: Percentual de Mulheres em Liderança - NÂO IMPLEMENTADO
 
 **ID:** M5_PERC_LIDERANCA
 
